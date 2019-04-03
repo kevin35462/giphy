@@ -16,3 +16,10 @@ footer {
     display:flex;
     justify-content:center;
 }
+#randChoose,#mailDiv{
+    display: flex;
+    justify-content:center;
+}
+#randButton,#mail_to{
+    display: none;
+}
